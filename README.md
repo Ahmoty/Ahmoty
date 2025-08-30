@@ -1,4 +1,4 @@
-I'm a beginner front-end developer learning the building blocks of the web.  
+Hi ,I am Ahmed Hesham. I'm a beginner front-end developer learning the building blocks of the web.  
 Currently focusing on **HTML** and **CSS** to create clean, responsive websites.  
  <br>
  <hr>
@@ -15,6 +15,7 @@ Currently focusing on **HTML** and **CSS** to create clean, responsive websites.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <br>
 <hr>
-to see all my project click <a target="_blank" href="https://github.com/Ahmoty?tab=repositories">here</a>
+
+Click in the link below to see my portfolio 👇
 <br>
-Click in the link below to see my portfolio <down></down>
+<a target="_blank" href="https://ahmoty.github.io/porfolio/">Portfolio website</a>
